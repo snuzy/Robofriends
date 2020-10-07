@@ -1,0 +1,10 @@
+.cardbg {
+	background: linear-gradient(to left, rgba(127, 180,63, 0.2),rgba(0,0,100,0.2));
+	box-shadow:4px 4px 8px 0px rgba( 0, 0, 0, 0.2 )
+}
+
+h2{
+	/*color: rgba(158, 160, 121, .7);*/
+	color: rgba(255,255,255, .5);
+
+}
